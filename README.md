@@ -1,6 +1,6 @@
-# AI写作工具 - 最新免费AI写作生成器工具推荐【2025年3月】
+# AI写作工具 - 最新免费AI写作生成器工具推荐【2025年5月】
 
-> 更新时间 2025年3月06日
+> 更新时间 2025年5月19日
 ---
 为了提升写作效率与质量，我整理并汇总了国内可用且免费的AI写作工具，供有需要的朋友们自由选择使用。
 
@@ -76,11 +76,8 @@ AI不仅能写能画，还能为你生成PPT，简化你的工作流程。
 
 | 平台名称 | 支持功能 | 类型 | 访问链接 |
 | -------- | ------- | ------- | ---- |
-| **一下AI** | GPT-4.0、GPT o1、AI绘画 | 网站 | [www.yixiaai.com](https://www.yixiaai.com) |
-| **Lify Chat** | GPT-4.0、GPT4.0 turbo、GPT o1、AI PPT、插件 | 网站 | [chat.lify.vip](https://chat.lify.vip) |
-| **ChatGPT For Desktop** | GPT全系列模型 | 电脑客户端 | [ChatGPT For Desktop](https://chatknow.lify.vip/software/AI%E6%99%BA%E6%85%A7%E5%B2%9B_1.0.0_x64_zh-CN.msi) |
-| **ChatGPT for edge** | edge 浏览器插件，全系列模型 | 插件 | [ChatGPT for edge](https://microsoftedge.microsoft.com/addons/detail/chatgpt%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88%E4%B8%AD%E6%96%87%E7%95%8C%E9%9D%A2%E3%80%81%E5%AF%B9%E8%AF%9D%E3%80%81%E5%86%99%E4%BD%9C%E3%80%81%E7%BB%98%E7%94%BB/lmlenkgcieicbnpobkhmpcgmamahahil) |
-| **ChatGPT Writer**| Chrome 浏览器插件，全系列模型 | 插件 | [ChatGPT For Chrome](https://chromewebstore.google.com/detail/chatgpt%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88ai-%E6%99%BA%E6%85%A7%E5%B2%9B%EF%BC%89/jffjfhngfgcglmjjpakgekefpegmhkll?hl=zh-CN&utm_source=ext_sidebar) |
+| **一下AI** | GPT-4.0、GPT o1、AI绘画 | 网站 | [xsimplechat.com](https://xsimplechat.com) |
+| **Lify Chat** | GPT-4.0、GPT4.0 turbo、GPT o1、AI PPT、插件 | 网站 | [chat.lanjing.pro](https://chat.lanjing.pro) |
 ---
 
 ## **九、 常见问题解答**
